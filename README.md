@@ -25,3 +25,9 @@ To address these issues, this project presents **Retinexformer**, a **one-stage 
 The proposed model introduces a **One-stage Retinex-based Framework (ORF)** that jointly estimates illumination and restores corrupted regions in a single end-to-end process. An **Illumination-Guided Transformer (IGT)** is designed as the core component, which uses illumination information to guide the attention mechanism, enabling the model to capture long-range dependencies and adaptively enhance areas with different lighting conditions.  
 
 Experimental results on multiple benchmark datasets demonstrate that **Retinexformer** significantly outperforms state-of-the-art CNN-based and Transformer-based enhancement methods in both quantitative measures and visual quality. In addition, user studies and object detection tests on enhanced images confirm its practical value for real-world low-light photography and vision applications.
+
+
+### ✍️ Authors
+
+**21PW35 - SRI NITIN S**  
+**21PW41 - AKSHITH MOHAMED M**
