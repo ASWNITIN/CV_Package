@@ -1,9 +1,8 @@
 # 🌙 Retinexformer: Low-Light Image Enhancement
 
 <div align="center">
-  <img src="dataset/Test/input/780.png" width="80%" />
-  <br><br>
-  <img src="output/780.png" width="80%" />
+  <img src="dataset/Test/input/780.png" width="45%" />
+  <img src="output/780.png" width="45%" />
   <br>
   <em>Top: Low-light input | Bottom: Retinexformer enhanced output</em>
 </div>
